@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Morimens.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd04a811700f4078b3847a9d254cab59210d3f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Morimens.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Morimens.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
