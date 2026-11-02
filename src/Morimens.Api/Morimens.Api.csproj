@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Morimens.Core\Morimens.Core.csproj" />
+    <ProjectReference Include="..\Morimens.Application\Morimens.Application.csproj" />
+    <ProjectReference Include="..\Morimens.Infrastructure\Morimens.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

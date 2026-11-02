@@ -1,0 +1,15 @@
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\bin\Debug\net8.0\Morimens.Infrastructure.deps.json
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\bin\Debug\net8.0\Morimens.Infrastructure.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\bin\Debug\net8.0\Morimens.Infrastructure.pdb
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\bin\Debug\net8.0\Morimens.Core.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\bin\Debug\net8.0\Morimens.Core.pdb
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.AssemblyInfo.cs
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.BB697874.Up2Date
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\refint\Morimens.Infrastructure.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\Morimens.Infrastructure.pdb
+C:\Users\antho\Desktop\Morimens\src\Morimens.Infrastructure\obj\Debug\net8.0\ref\Morimens.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\bin\Debug\net8.0\Morimens.Core.deps.json
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\bin\Debug\net8.0\Morimens.Core.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\bin\Debug\net8.0\Morimens.Core.pdb
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\Morimens.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\Morimens.Core.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\Morimens.Core.AssemblyInfo.cs
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\Morimens.Core.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\Morimens.Core.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\refint\Morimens.Core.dll
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\Morimens.Core.pdb
+C:\Users\antho\Desktop\Morimens\src\Morimens.Core\obj\Debug\net8.0\ref\Morimens.Core.dll
