@@ -5,5 +5,3 @@ namespace Morimens.WPF;
 public partial class App : Application
 {
 }
-
-

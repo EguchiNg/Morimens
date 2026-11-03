@@ -42,7 +42,7 @@
             <Separator Margin="0,8"/>
 
             <Label Content="Attacker ATK (override)" Style="{StaticResource FieldLabel}"/>
-            <TextBox x:Name="AtkOverrideTxt" Style="{StaticResource InputBox}" Text="Leave blank to use base ATK"/>
+            <TextBox x:Name="AtkOverrideTxt" Style="{StaticResource InputBox}" PlaceholderText="Leave blank to use base ATK"/>
 
             <Label Content="Target DEF" Style="{StaticResource FieldLabel}"/>
             <TextBox x:Name="DefTxt" Style="{StaticResource InputBox}" Text="0"/>

@@ -1,0 +1,5 @@
+src/Morimens.Api/morimens.db
+
+# Build outputs
+bin/
+obj/
